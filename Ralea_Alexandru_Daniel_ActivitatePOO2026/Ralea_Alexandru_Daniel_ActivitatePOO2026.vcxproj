@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="activitati-seminarii\activitate01.cpp" />
     <ClCompile Include="activitati-seminarii\activitate02.cpp" />
+    <ClCompile Include="activitati-seminarii\activitate03.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
